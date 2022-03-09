@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.container img{
+    height: 19px;
+}
+.nav-link.active{
+    width: 82.61px;
+    height: 53px;
+    font-weight: 600;
+    text-align: center;
+    margin-top: 21px;
+}
+.has-sub{
+    width: 140px;
+    height: 53px;
+    text-align: center;
+    margin-top: 20px;
+}
+.has-news{
+    width: 93.66px;
+    height: 53px;
+    text-align: center;
+    margin-top: 20px;
+}
+.has-features{
+    width: 120.02px;
+    height: 53px;
+    text-align: center;
+    margin-top: 20px;
+}
+.has-contact{
+    width: 104.17px;
+    height: 53px;
+    text-align: center;
+    margin-top: 20px;
+}
+.has-guide{
+    width: 123.92px;
+    height: 53px;
+    text-align: center;
+    margin-top: 20px;
+}
+.navigation{
+    list-style: none;
+    line-height: 1;
+    display: block;
+    font-size: 13px;
+
+    position: relative;
+    /* -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box; */
+    box-sizing: border-box;
+}
+.navigation:hover{
+    color: black;
+}

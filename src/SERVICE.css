@@ -1,0 +1,96 @@
+.page-title{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 8.5%;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: -1px;
+    font-family: 'Roboto', sans-serif;
+}
+.breadcrumb{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: transparent;
+    margin-bottom: 0px;
+    color: rgb(255, 255, 255);
+    font-size: 15px;
+    margin:2px ;
+}
+.breadcrumb:hover{
+    color: #b99a3cf8;
+}
+
+.cards{
+    display: grid;
+    display: inline-block;
+    width: 29%;
+    margin-top: 55px;
+    padding-left:10px;
+    margin-left: 30px;
+}
+.background{
+    font-size: 19px;
+}
+.price{
+        font-size: 24px;
+        color: #aa9144;
+        font-weight: 600;
+        font-family: 'Montserrat', sans-serif
+}
+
+.Box{
+    margin-top: 85px;
+ 
+    background-color: #aa9144;
+    /* margin-bottom:-90px; */
+    padding-top: 40px;
+}
+.space-small{
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.Box .cta-title{
+    font-size: 36px;
+    font-family: 'Montserrat', sans-serif;
+    color: #fff;
+    line-height: 58px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    letter-spacing: -1px;
+   
+}
+.Box .cta-text{
+    font-size: 18px;
+    color: #ffffff;
+    margin-bottom: 20px;
+    margin-top: 7px;
+}
+.button-lg{
+    color: #aa9144;
+    display: inline-block;
+    /* width: 300px; */
+    background-color: #fff;
+    border: 1px solid #fff;
+    padding: 20px 30px;
+    margin-bottom:0;
+    font-size: 13px;
+    text-decoration:none;
+    font-weight: 1000;
+    letter-spacing: 1px;
+    line-height: 1.42857143;
+    text-align: center;
+    border: none;
+    text-transform: uppercase;
+    border-radius: 100px;
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+    /* margin-left: 130px; */
+}
+.button-lg:hover{
+    color: white;
+    background-color: #aa9144;
+}

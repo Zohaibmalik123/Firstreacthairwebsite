@@ -1,0 +1,138 @@
+
+/* STYLE GUIDE */
+.fonts{
+    font-size: 40px;
+    margin-top: 70px;
+    font-family: 'Montserrat', sans-serif;
+}
+.fonts h1{
+    margin-bottom: 30px;
+}
+.fonts h4{
+    font-size: 22px;
+}
+.heading{
+    font-size: 40px;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.color{
+    font-size: 40px;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+}
+.box-default-color {
+    background-color: #aa9144;
+    height: 160px;
+
+}
+.box-primary-color {
+    background-color: #18150d;
+    height: 160px;
+}
+.box-heading-color {
+    background-color: #18150d;
+    height: 160px;
+}
+.box-grey-color{
+    background-color: #6f6f6f;
+    height: 160px;
+}
+.box-bg-color {
+    background-color: #eddba5;
+    height: 160px;
+}
+.box-info{
+     margin-top: 20px;
+    margin-left: 50px;
+}
+
+.copy{
+    font-size: 40px;
+    margin-top: 50px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+}
+.baseparagraph{
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+.mb10{
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+.mb11{
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+.list-type{
+    margin-top: 0px;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+}
+/* BUTTON */
+.mb-2{
+    margin-top: 0px;
+}
+.btn-large{
+    font-size: 18px;
+    width: 210px;
+    height: 50px;
+}
+.default{
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    font-weight: 400;
+    background-color: white;
+    background-color:#aa9144 ;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+.default:hover{
+    background-color:#9e8743f3 ;
+}
+.primary{
+    display: inline-block;
+    margin-top: 15px;
+    padding: 6px 12px;
+    background-color: rgb(24, 24, 24);
+    margin-bottom: 0;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 20px;
+}
+.primary:hover{
+    background-color: rgba(26, 24, 24, 0.932);
+}
+
+/* Contact */
+
+/* news single css */
